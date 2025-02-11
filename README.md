@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Firebase applications: unhandled authentication errors and attempts to access data before authentication is complete. The `firebaseBug.js` file shows the problematic code, while `firebaseBugSolution.js` provides a corrected version with improved error handling and asynchronous operations to prevent crashes and ensure data integrity.
